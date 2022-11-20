@@ -1,5 +1,3 @@
-import java.util.regex.Pattern;
-
 class Lec4 {
     public static void main(String args[]){
         // Pattern - 1
